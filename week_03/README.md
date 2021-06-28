@@ -1,0 +1,3 @@
+## Week 3 Process - Poem III
+
+This week I wrote a new poem about my family and I recently moving out of my childhood home (a place I called home for 27 years). I was experimenting with splitting a large body of text (words associated with my home) into a list and crafting a concrete poetry piece out of that list. I also played with random shuffle and the possibilities of mixing up the entitities in the list. Every time the code is run, the result changes. The poem is temporal and constantly changing — a metaphor for home and space.
