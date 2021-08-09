@@ -4,10 +4,10 @@ Flight Tracker FINAL
 Tools:
 
 Jupyter Notebook
-OpenSky Network - supplies open air traffic data to be converted into a visual flight tracker
-REST API - gets airplane data within an area extent using WGS84 coordinates system
-Bokeh Library - 
-Pandas Library
+OpenSky Network - supplies open air traffic data to be converted into a visual flight tracker.
+REST API - gets airplane data within an area extent using WGS84 coordinates system.
+Bokeh Library - interactive visualizations for modern web browsers.
+Pandas Library - for data manipulation with integrated indexing.
 JSON
 NumPy Library
 
